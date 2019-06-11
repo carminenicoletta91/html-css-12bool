@@ -1,11 +1,15 @@
 [class*="col-"]{
   float:left;
-
+  height:150px;
   background-color:pink;
   border:solid 1px black;
+
 }
 p{
   text-align: center;
-  padding-top:75px;
-  padding-bottom:75px;
+
+}
+.mod{
+  background-color:orange;
+  border:solid 1px white;
 }
