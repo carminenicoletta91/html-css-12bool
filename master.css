@@ -1,0 +1,11 @@
+[class*="col-"]{
+  float:left;
+  height:150px;
+  background-color:pink;
+  border:solid 1px black;
+}
+p{
+  text-align: center;
+  padding-top:50px;
+  padding-bottom:50px; 
+}
